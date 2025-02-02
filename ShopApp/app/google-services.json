@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036002353710",
+    "project_id": "shopapp-dc540",
+    "storage_bucket": "shopapp-dc540.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036002353710:android:d0af29fe2068db03a0b5bf",
+        "android_client_info": {
+          "package_name": "com.abahz.shopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCusIJICFjl-yZWto1i2CTqgneO4_VOx7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
